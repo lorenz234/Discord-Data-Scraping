@@ -3,15 +3,14 @@ Created on Mon Sep 20 11:01:50 2021
 @author: Lorenz234
 """
 # Examples for scraping data from discord servers (a.k.a. guilds) 
-# (see READ.ME on how to find out the server_id and channel_id)
+# (see README on how to find out the server_id and channel_id)
 
 # import libraries to make get request
 import requests
 import json
 
-# your API Key goes here (see READ.ME on how to find out your own api key)
-h = {'authorization': 'NzkwMjc2NjQyNjYwNTQ4NjE5.YSD-eg.JSIIJJdi8OOkTeCUKN_6UXax8J4'}
-#h = {'authorization': ''} #!
+# your API Key goes here (see README on how to find out your own api key)
+h = {'authorization': ''} #!
 
 # approximate_member_count (count of server members)
 def get_approximate_member_count(server_id):
