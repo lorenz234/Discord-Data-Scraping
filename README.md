@@ -2,7 +2,7 @@
 Basic examples on how to scrape data such as member counts and messages from any discord server.
 
 
-# How to get your authorisation key
+## How to get your authorisation key
 To scrape data, a access key is required. Anyone with a discord account has a unique key.
 To find out your authorisation key follow this simple 5-step tutorial:
 
@@ -13,5 +13,5 @@ To find out your authorisation key follow this simple 5-step tutorial:
 5) navigate to "messages?limit=50" which is an api call request
 6) under the tab "Request Headers" the authorisation key is listed as "authorization" 
 
-# How to get a server_id or channel_id
+## How to get a server_id or channel_id
 The easiest way is to activate "Developer Mode" in your advanced discord settings. Once activated a simple right klick and "copy ID" will copy any id straight to your clipboard.
