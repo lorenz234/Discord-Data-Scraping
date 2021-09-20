@@ -3,7 +3,7 @@ Basic examples on how to scrape data, such as member counts and messages from an
 
 ## How to get your authorization key
 To scrape data, an access key is required. Anyone with a discord account has a unique key.
-To find out your authorization key, follow this simple 5-step tutorial:
+To find out your authorization key, follow this simple 4-step tutorial:
 
 1) open and log into your discord account on your web browser
 2) activate developer tools on your web browser and navigate to "Network" tab
