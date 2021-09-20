@@ -14,6 +14,6 @@ To find out your authorization key, follow this simple 4-step tutorial:
 <img width="1080" alt="tut3" src="https://user-images.githubusercontent.com/90760534/134010810-97e7be70-43c3-41b2-93b5-4e95e420af96.PNG">
 
 ## How to get a server_id or channel_id
-The easiest way is to activate "Developer Mode" in your advanced discord settings. Once activated a simple right click and "copy ID" will copy any id straight to your clipboard.
+The easiest way is by activating "Developer Mode" in your advanced discord settings. Once activated a simple right click and "copy ID" will copy any id needed straight to your clipboard.
 <img width="1080" alt="tut4" src="https://user-images.githubusercontent.com/90760534/134010812-597f59e8-5153-42ec-8c31-d36fd3a90c30.PNG">
 <img width="673" alt="tut5" src="https://user-images.githubusercontent.com/90760534/134010804-d3dffe6f-a75f-4de3-964c-65432a5aac19.PNG">
