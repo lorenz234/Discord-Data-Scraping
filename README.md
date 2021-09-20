@@ -11,6 +11,7 @@ To find out your authorization key, follow this simple 5-step tutorial:
 3) while making sure the network activity is recorded, open up any random discord channel
 <img width="1080" alt="tut2" src="https://user-images.githubusercontent.com/90760534/134010806-44d752db-bc7d-4366-93f8-3862a1bf3bf3.PNG">
 4) navigate to "messages?limit=50" which is an api call request
+
 5) under the tab "Request Headers" the authorization key is listed as "authorization" 
 <img width="1080" alt="tut3" src="https://user-images.githubusercontent.com/90760534/134010810-97e7be70-43c3-41b2-93b5-4e95e420af96.PNG">
 
