@@ -8,7 +8,7 @@ To find out your authorisation key follow this simple 5-step tutorial:
 
 1) open and log into your discord account on your web browser
 2) activate developer tools on your web browser and navigate to "Network" tab
-![alt text](https://github.com/lorenz234/Discord-Data-Scraping/blob/main/tutorial/tut1.png?raw=true)
+![plot](https://github.com/lorenz234/Discord-Data-Scraping/main/tutorial/tut1.png?raw=true)
 4) while making sure the network activity is recorded, open up any random discord channel
 5) navigate to "messages?limit=50" which is an api call request
 6) under the tab "Request Headers" the authorisation key is listed as "authorization" 
