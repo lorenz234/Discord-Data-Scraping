@@ -24,7 +24,7 @@ def get_approximate_presence_count(server_id):
     j = json.loads(r.text)
     return j['approximate_presence_count']
 
-# get the text content of the last 50 messages postet to a specific channel/direct message
+# get the text content of the last 10 messages postet to a specific channel/direct message
 def get_last_10_messages_from_channel(channel_id):
     r = requests.get('https://discord.com/api/v9/channels/' + channel_id + '/messages?limit=10', headers=h)
     j = json.loads(r.text)
